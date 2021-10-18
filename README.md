@@ -13,4 +13,5 @@ The CME starts on the surface of the sun where the intense magnetic field makes 
 
 
 
-Intense solar storms ionize the earth's atmosphere which affects any magnetic communication such as cell phone, internet, etc.
+Intense solar storms ionize the earth's atmosphere which affects any magnetic communication such as cell phone, internet, etc. 
+Such an event has the potential to cause a very large blackout entire planet
