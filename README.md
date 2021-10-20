@@ -20,4 +20,6 @@ Such an event has the potential to cause a very large blackout entire planet
 <p align="left">
   <img width="400" src="Assets/CME_phenomena_update.jpg" >
 </p>
+
 [image source](https://www.swpc.noaa.gov/phenomena/coronal-mass-ejections)
+
