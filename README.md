@@ -15,3 +15,9 @@ The Coronal Mass Ejection (CME) starts on the surface of the sun where the inten
 
 Intense solar storms ionize the earth's atmosphere which affects any magnetic communication such as cell phone, internet, etc. 
 Such an event has the potential to cause a very large blackout entire planet
+
+
+<p align="left">
+  <img width="400" src="Assets/CME_phenomena_update.jpg" >
+</p>
+[image source](https://www.swpc.noaa.gov/phenomena/coronal-mass-ejections)
