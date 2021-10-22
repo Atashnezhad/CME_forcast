@@ -15,6 +15,9 @@ The Coronal Mass Ejection (CME) starts on the surface of the sun where the inten
 
 The data was scraped form **Near-Earth Interplanetary Coronal Mass Ejections Since January 1996** wbpage [here](http://www.srl.caltech.edu/ACE/ASC/DATA/level3/icmetable2.htm#(k)).
 
+<p align="left">
+  <img width="1200" src="Assets/data_webpage.png" >
+</p>
 
 
 Intense solar storms ionize the earth's atmosphere which affects any magnetic communication such as cell phone, internet, etc. 
