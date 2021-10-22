@@ -1,4 +1,4 @@
-,Disturbance Y/M/D (UT) (a),"ICME Plasma/Field Start, End Y/M/D (UT) (b)","ICME Plasma/Field Start, End Y/M/D (UT) (b)","Comp. Start, End (Hrs wrt. Plasma/ Field) (c)","Comp. Start, End (Hrs wrt. Plasma/ Field) (c)","MC Start, End (Hrs wrt. Plasma/ Field) (d)","MC Start, End (Hrs wrt. Plasma/ Field) (d)",BDE? (e),BIF? (f),Qual. (g),dV (km/s) (h),V_ICME (km/s) (i),V_max (km/s) (j),B (nT) (k),MC? (l),Dst (nT) (m),V_transit (km/s) (n),LASCO CME Y/M/D (UT) (o)
+,Disturbance Y/M/D (UT) (a),ICME Plasma/Field Start Y/M/D (UT) (b),ICME Plasma/Field End Y/M/D (UT) (b),Comp. Start (Hrs wrt. Plasma/ Field) (c),Comp. End (Hrs wrt. Plasma/ Field) (c),MC Start (Hrs wrt. Plasma/ Field) (d),End (Hrs wrt. Plasma/ Field) (d),BDE? (e),BIF? (f),Qual. (g),dV (km/s) (h),V_ICME (km/s) (i),V_max (km/s) (j),B (nT) (k),MC? (l),Dst (nT) (m),V_transit (km/s) (n),LASCO CME Y/M/D (UT) (o)
 0,1996/05/27 1500,1996/05/27 1500,1996/05/29 0300,...,...,0,+4,N,...,2,0,370,400,9,2,-33,...,
 1,1996/07/01 1320,1996/07/01 1800,1996/07/02 1100,...,...,0,0,N,...,3,40,360,370,11,2,-20,...,
 2,1996/08/07 0600,1996/08/07 1200,1996/08/08 1000,...,...,0,0,N,...,2,10,350,380,7,2,-23,...,
