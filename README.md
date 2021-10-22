@@ -24,3 +24,8 @@ Such an event has the potential to cause a very large blackout entire planet
 
 [image source](https://www.swpc.noaa.gov/phenomena/coronal-mass-ejections)
 
+
+# ICME versus time 
+<p align="left">
+  <img width="1500" src="Figures/P02_01_EDA_plt3.png" >
+</p>
