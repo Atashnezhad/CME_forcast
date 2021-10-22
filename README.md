@@ -19,6 +19,12 @@ The data was scraped form **Near-Earth Interplanetary Coronal Mass Ejections Sin
   <img width="1200" src="Assets/data_webpage.png" >
 </p>
 
+<p align="left">
+  <img width="1500" src="Figures/P02_01_EDA_plt33.png" >
+</p>
+
+---
+
 
 Intense solar storms ionize the earth's atmosphere which affects any magnetic communication such as cell phone, internet, etc. 
 Such an event has the potential to cause a very large blackout entire planet
@@ -32,6 +38,4 @@ Such an event has the potential to cause a very large blackout entire planet
 
 
 # ICME versus time 
-<p align="left">
-  <img width="1500" src="Figures/P02_01_EDA_plt33.png" >
-</p>
+
