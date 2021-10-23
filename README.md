@@ -20,8 +20,8 @@ The data was scraped form **Near-Earth Interplanetary Coronal Mass Ejections Sin
 </p>
 
 <p align="left">
-  <img width="800" src="Figures/PP02_01_EDA_EDA_BDE.png" >
-  <img width="800" src="Figures/P02_01_EDA_EDA_MC.png" >
+  <img width="800" src="Figures/P02_01_EDA_BDE.png" >
+  <img width="800" src="Figures/P02_01_EDA_MC.png" >
 </p>
 
 ---
