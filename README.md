@@ -35,8 +35,10 @@ Such an event has the potential to cause a very large blackout entire planet
 
 # EDA
 
-<p align="left">
-  <img width="800" src="Figures/P02_01_EDA_BDE.png" >
-  <img width="800" src="Figures/P02_01_EDA_MC.png" >
+<p align="center">
+  <img width="400" src="Figures/P02_02_EDA_BDE.png" >
+  <img width="400" src="Figures/P02_02_EDA_MC.png" >
+    <img width="400" src="Figures/P02_02_EDA_BIF.png" >
+  <img width="400" src="Figures/P02_02_EDA_Qual.png" >
 </p>
 
