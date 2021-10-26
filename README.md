@@ -45,19 +45,19 @@ Such an event has the potential to cause a very large blackout entire planet
 
 
 
-### ARIMA 5,1,0 Forecasting results for 18 days ahead
+### ARIMA 5,1,0 Forecasting for 18 days ahead
 
 <p align="center">
   <img width="1200" src="Figures/ARIMA510_GIF.gif" >
 </p>
 
-### AR 150 lags Forecasting results for 18 days ahead
+### AR 150 lags Forecasting for 18 days ahead
 <p align="center">
   <img width="1200" src="Figures/AR_150.gif" >
 </p>
 
 
-### LSTM Forecasting results for 18 days ahead
+### LSTM Forecasting for 18 days ahead
 <p align="center">
   <img width="1200" src="Figures/P03_02_LSTM_2_univar.gif" >
 </p>
