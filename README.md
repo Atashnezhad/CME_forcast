@@ -42,3 +42,12 @@ Such an event has the potential to cause a very large blackout entire planet
   <img width="400" src="Figures/P02_02_EDA_Qual.png" >
 </p>
 
+
+
+
+# ARIMA 5,1,0 Forecasting results for 18 days ahead.
+
+<p align="center">
+  <img width="1200" src="Figures/ARIMA510_GIF.gif" >
+</p>
+
