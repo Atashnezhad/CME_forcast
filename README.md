@@ -49,5 +49,6 @@ Such an event has the potential to cause a very large blackout entire planet
 
 <p align="center">
   <img width="1200" src="Figures/ARIMA510_GIF.gif" >
+  <img width="1200" src="Figures/AR_150.gif" >
 </p>
 
