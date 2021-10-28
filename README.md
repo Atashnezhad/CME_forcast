@@ -14,6 +14,10 @@ The Coronal Mass Ejection (CME) starts on the surface of the sun where the inten
   <img width="400" src="Assets/cme.gif" >
 </p>
 
+
+
+A similar event if happen today, it most likely wipes out the whole data on all computers due to the fact they are mostly not electromagnetic pulse protected.
+
 The goal of this project is to forecast the solar storms speed 18 days ahead using classical and modern tools.
 
 
