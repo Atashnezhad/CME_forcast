@@ -58,7 +58,7 @@ Such an event has the potential to cause a very large blackout entire planet
 
 
 <p align="left">
-  <img width="600" src="Figures/p04_02_tf_hist2d_3.png" >
+  <img width="500" src="Figures/p04_02_tf_hist2d_3.png" >
 </p>
 
 From the above plot, it is observed that the majority of ICME speed falls between 400 to 500 km/s and magnetic activity of -50nT to -60 nT. Note that, the Dst < -100 nT are considered severe solar storms (Zhang et al. 2007).
