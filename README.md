@@ -17,7 +17,7 @@ Such an event has the potential to cause a very large blackout entire planet
 The goal of this project is to forecast the solar storms speed 18 days ahead using classical and modern tools.
 
 <p align="left">
-  <img width="1200" src="Figures/P02_01_EDA_plt2.png" >
+  <img width="1200" src="Figures/P02_01_EDA_plt33.png" >
 </p>
 
 
