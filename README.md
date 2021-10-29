@@ -40,14 +40,12 @@ Such an event has the potential to cause a very large blackout entire planet
 
 ## EDA
 
-<p align="center">
-  <img width="400" src="Figures/P02_02_EDA_BDE.png" >
-  <img width="400" src="Figures/P02_02_EDA_MC.png" >
-    <img width="400" src="Figures/P02_02_EDA_BIF.png" >
-  <img width="400" src="Figures/P02_02_EDA_Qual.png" >
+<p align="left">
+  <img width="800" src="Figures/P02_02_EDA_MC.png" >
 </p>
 
-
+**P02_02_EDA:** 
+From the above figure, It is clear that the events reported by Huttunen et al have reported some outliers in the overall data set. It is seen that the Huttunen et al group have reported some very high ICME speeds. This observation opens room for investigating the whole data reported by their team to discover the reason behind these outliers. is there any difference between the measurement tools used by their team?
 
 
 <p align="left">
