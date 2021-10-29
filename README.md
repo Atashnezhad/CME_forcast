@@ -1,10 +1,11 @@
+<p align="left">
+    <img width="1200" src="Assets/carington_ev.png" >
+</p>
 
 # Interplanetary Coronal Mass Ejection (ICME) Forecasting - Geomagnetic Storms
 A big potential threat and a dangerous event that might happen in your lifetime. Geomagnetic storms! On September 1st, 1859, the largest solar storm on record hit the earth.
 <p align="left">
   <img width="400" src="Assets/3._cme_gif_11660.gif" >
-    <img width="400" src="Assets/cme.gif" >
-
 </p>
 
 
