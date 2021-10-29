@@ -8,19 +8,23 @@ A big potential threat and a dangerous event that might happen in your lifetime.
   <img width="400" src="Assets/3._cme_gif_11660.gif" >
 </p>
 
+## Problem Statment:
 
 You may have already heard about the so called carrington event that happen back in 1859. 
 The carrington event was such a powerful solar storm that sat the telegraph papers on fire!
 The Coronal Mass Ejection (CME) starts on the surface of the sun where the intense magnetic field makes an arc shapes of materials that have a high tendency to snap (wellknown coronal mass ejection).
 
-
-
-
-
 A similar event if happen today, it most likely wipes out the whole data on all computers due to the fact they are mostly not electromagnetic pulse protected.
 Intense solar storms ionize the earth's atmosphere which affects any magnetic communication such as cell phone, internet, etc. 
 Such an event has the potential to cause a very large blackout entire planet
 The goal of this project is to forecast the solar storms speed 18 days ahead using classical and modern tools.
+
+<p align="left">
+  <img width="1200" src="Figures/P02_01_EDA_plt2.png" >
+</p>
+
+
+
 
 
 
