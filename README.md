@@ -69,17 +69,16 @@ The project directory tree structure is provided below.
 ```
 
 
-## Data Scraping
+## Data Preparation
 
 The data was scraped form **Near-Earth Interplanetary Coronal Mass Ejections Since January 1996** webpage [here](http://www.srl.caltech.edu/ACE/ASC/DATA/level3/icmetable2.htm#(k)).
 
+* The website source webpafe html file was downloaded and saved at the data folder and later was extracted in csv format.
+
+
 <p align="left">
-  <img width="1200" src="Assets/data_webpage.png" >
+  <img width="1000" src="Assets/dftable.png" >
 </p>
-
-
-
-
 
 
 
