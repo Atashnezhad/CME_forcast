@@ -3,7 +3,7 @@
 </p>
 
 # Interplanetary Coronal Mass Ejection (ICME) Forecasting - Geomagnetic Storms
-A big potential threat and a dangerous event that might happen in your lifetime. Geomagnetic storms! On September 1st, 1859, the largest solar storm on record hit the earth. You may have already heard about the so called carrington event that happen back in 1859. The carrington event was such a powerful solar storm that sat the telegraph papers on fire! The Coronal Mass Ejection (CME) starts on the surface of the sun where the intense magnetic field makes an arc shapes of materials that have a high tendency to snap (wellknown coronal mass ejection).
+A big potential threat and a dangerous event that might happen in your lifetime. Geomagnetic storms! On September 1st, 1859, the largest solar storm on record hit the earth. You may have already heard about the so called carrington event that happen back in 1859. The carrington event was such a powerful solar storm that sat the telegraph papers on fire! The Coronal Mass Ejection (CME) starts on the surface of the sun where the intense magnetic field makes an arc shapes of materials that have a high tendency to snap (wellknown coronal mass ejection). The ICME record of the last 30 years is seen in the following figure (Image by author).
 
 <p align="left">
   <img width="400" src="Assets/3._cme_gif_11660.gif" >
