@@ -71,9 +71,9 @@ The project directory tree structure is provided below.
 
 ## Data Preparation
 
-The data was scraped form **Near-Earth Interplanetary Coronal Mass Ejections Since January 1996** webpage [here](http://www.srl.caltech.edu/ACE/ASC/DATA/level3/icmetable2.htm#(k)).
-
-* The website source webpafe html file was downloaded and saved at the data folder and later was extracted in csv format.
+The data was scraped from **Near-Earth Interplanetary Coronal Mass Ejections Since January 1996** webpage [here](http://www.srl.caltech.edu/ACE/ASC/DATA/level3/icmetable2.htm#(k)).
+I searched for the coronal mass ejection data set online and found the near-earth webpage which had the data from 1996 to 2020 (almost 550 rows). The data was a long table on one page with multiple headers, and I needed to use some python libraries that are used commonly in web scraping (i.e. beautiful soap). The  
+* The website source web page HTML file was downloaded and saved at the data folder and later was extracted in csv format.
 
 
 <p align="left">
