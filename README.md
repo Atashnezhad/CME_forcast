@@ -43,7 +43,6 @@ The goal of this project is to forecast the solar storms speed 18 days ahead usi
 │   └───archive
 │           P01_02_Data.ipynb
 │           P02_01_EDA.ipynb
-│
 ├───Data
 │       Data_CME.csv
 │       Data_ICME_Edited_Decoded_out_P02_03.csv
@@ -55,9 +54,7 @@ The goal of this project is to forecast the solar storms speed 18 days ahead usi
 │       HCME_WP4_V01.json
 │       ICME_WebScr_data.html
 │       save_coded_values_P02_03_EDA.json
-│
 ├───Figures
-│
 ├───Models
 │   │   LSTM_1_univariate.h5
 │   │   LSTM_2_univariate.h5
