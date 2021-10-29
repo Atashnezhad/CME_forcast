@@ -57,10 +57,14 @@ Such an event has the potential to cause a very large blackout entire planet
 
 
 
-<p align="center">
-  <img width="1000" src="Figures/p04_02_tf_hist2d.png" >
+<p align="left">
+  <img width="600" src="Figures/p04_02_tf_hist2d_3.png" >
 </p>
 
+From the above plot, it is observed that the majority of ICME speed falls between 400 to 500 km/s and magnetic activity of -50nT to -60 nT. Note that, the Dst < -100 nT are considered severe solar storms (Zhang et al. 2007).
+Although there is some high ICME speed recorded above 450 km/s, however, the data shows both low and high magnetic index disturbance which makes it inconclusive.
+
+At the top- right side of plot, a severe solar strom is seen with ICME speed of around 800 km/s and Dst index of -99.
 
 
 
