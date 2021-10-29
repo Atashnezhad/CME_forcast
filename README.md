@@ -23,6 +23,8 @@ The goal of this project is to forecast the solar storms speed 18 days ahead usi
 
 
 ## Project structure:
+
+--
 ```
 ├───Assets
 ├───Codes
