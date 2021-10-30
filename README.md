@@ -11,10 +11,10 @@ A big potential threat and a dangerous event that might happen in your lifetime.
 
 ## Problem Statment
 
-A similar solar storm if happen today most likely wipes out the whole data on all computers due to the fact they are mostly not electromagnetic pulse protected.
+A similar solar storm like the one in 1859, if happens today most likely wipes out the whole data on all computers due to the fact they are mostly not electromagnetic pulse protected.
 Intense solar storms ionize the earth's atmosphere which affects any magnetic communication such as cell phone, internet, etc. 
 Such an event has the potential to cause a very large blackout entire planet
-The goal of this project is to forecast the solar storm's speed 18 days into the future using classical and modern tools (i.e. using 60 timestamps). The ICME record of the last 30 years is seen in the following figure (Image by author).
+The goal of this project is to forecast the solar storm's speed 18 days into the future using classical and modern tools (i.e. using 60 timestamps history). The ICME speed (V ICME km/s) record of the last 30 years is seen in the following figure (Image by author).
 
 <p align="left">
   <img width="1200" src="Figures/P02_01_EDA_plt33.png" >
@@ -57,16 +57,17 @@ P01 - Data Collection and Cleaning
         1.2 - Data scraping (extracting data from HTML source file)
 P02 - Data Exploratory
         2.1 - Data cleaning
-        The adfuller test shows the pressure data (Univariate - solar wind speed) is STATIONARY - 
-        the test stat is less than 10%. Based on adfuller test all data are stationary with 90% confidence.   
+        The adfuller test shows the pressure data (Univariate - solar wind speed) is STATIONARY 
+        - the test stat is less than 10%. Based on adfuller test all data are stationary 
+        with 90% confidence.   
         2.2 - more exploratory analysis
-        Grouping data for BDE (Evidence of BiDirectional suprathermal Electron strahls), magnetic cloud (MC),
-        Bidirectional energetic Ion Flows (BIF), and quality of the boundary times and aggregate for 
-        ICME speed and exploring.
-        2.3 - building new df set and turning categorical values into the numerical and save it as JSON file
-        for future steps.
-        2.4 - Explore new data set through panda corr function and the potential relation-ship between 
-        independent parameters.
+        Grouping data for BDE (Evidence of BiDirectional suprathermal Electron strahls), 
+        magnetic cloud (MC), Bidirectional energetic Ion Flows (BIF), and quality of the 
+        boundary times and aggregate for ICME speed and exploring.
+        2.3 - building new df set and turning categorical values into the numerical and 
+        save it as JSON file for future steps.
+        2.4 - Explore new data set through panda corr function and the potential 
+        relation-ship between independent parameters.
 P03 - Modeling
         3.1 - Univariate approach
             3.1.1 - Autoregressive and ARIMA modeling
