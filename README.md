@@ -135,13 +135,42 @@ The Sequential model using the TensorFlow library was applied considering two la
 
 
 
+```
+P03_01_Univar_ARIMA_AR:
+Data: Data_ICME_Edited_Decoded_out_P02_03 -> evenly distributed 
+lag: -
+Train_test split: 0.69
+auto arima - > ARIMA (1,1,1) | lag = 1
+ARIMA (5,1,0) | lag = 5
+AR  | lag = 150
+
+
+P03_02_Univar_LSTM
+Data: Data_ICME_speed_transformed_18D_P03_01
+lag: 60
+Train_test split: 0.69
+Model: LSTM_1, LSTM_2 (keras)
+
+
+P03_04_Univar_ML:
+supervised
+Data: Data_ICME_speed_transformed_18D_P03_01
+lag: 60
+Train_test split: 0.69
+ML: XGBoost, LR, Sequential (keras)
+
+
+
+P03_05_Multivar_LSTM:
+Data: Data_ICME_Edited_Decoded_out_P02_03
+lag: 60
+Train_test split: 0.69
+Model: LSTM (keras)
 
 
 
 
-
-
-
+```
 
 
 
