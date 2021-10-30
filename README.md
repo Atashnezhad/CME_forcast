@@ -43,28 +43,9 @@ The project directory tree structure is provided below.
 │   │   P03_06_Multivar_tf_supervised.ipynb
 │   │   P04_01_tf.ipynb
 │   │   P04_02_tf.ipynb
-│   └───archive
-│           P01_02_Data.ipynb
-│           P02_01_EDA.ipynb
 ├───Data
-│       Data_CME.csv
-│       Data_ICME_Edited_Decoded_out_P02_03.csv
-│       Data_ICME_Edited_out_P02_02.csv
-│       Data_ICME_Engineered_P02_04.csv
-│       Data_ICME_scraped.csv
-│       Data_ICME_speed_transformed_18D_P03_01
-│       Data_univar_ICME_lag60tsp_supervise_P03_04
-│       HCME_WP4_V01.json
-│       ICME_WebScr_data.html
-│       save_coded_values_P02_03_EDA.json
 ├───Figures
 ├───Models
-│   │   LSTM_1_univariate.h5
-│   │   LSTM_2_univariate.h5
-│   │   LSTM_Multivariate_P03_05.h5
-│   │   P03_02_LSTM_1_univariate.h5
-│   ├───dnn_model_tf_p03_06
-│   └───dnn_model_tf_p3_6
 └───proj
 ```
 
