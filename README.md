@@ -29,20 +29,20 @@ The project directory tree structure is provided below.
 ```
 ├───Assets
 ├───Codes
-│   │   P01_01_Data_Scraping.ipynb
-│   │   P01_02_Data_Scraping.ipynb
-│   │   P02_01_EDA.ipynb
-│   │   P02_02_EDA.ipynb
-│   │   P02_03_EDA.ipynb
-│   │   P02_04_EDA.ipynb
-│   │   P03_01_Univar_ARIMA_AR.ipynb
-│   │   P03_02_Univar_LSTM.ipynb
-│   │   P03_03_Univar_LSTM.ipynb
-│   │   P03_04_Univar_ML.ipynb
-│   │   P03_05_Multivar_LSTM.ipynb
-│   │   P03_06_Multivar_tf_supervised.ipynb
-│   │   P04_01_tf.ipynb
-│   │   P04_02_tf.ipynb
+│   ├───P01_01_Data_Scraping.ipynb
+│   ├───P01_02_Data_Scraping.ipynb
+│   ├───P02_01_EDA.ipynb
+│   ├───P02_02_EDA.ipynb
+│   ├───P02_03_EDA.ipynb
+│   ├───P02_04_EDA.ipynb
+│   ├───P03_01_Univar_ARIMA_AR.ipynb
+│   ├───P03_02_Univar_LSTM.ipynb
+│   ├───P03_03_Univar_LSTM.ipynb
+│   ├───P03_04_Univar_ML.ipynb
+│   ├───P03_05_Multivar_LSTM.ipynb
+│   ├───P03_06_Multivar_tf_supervised.ipynb
+│   ├───P04_01_tf.ipynb
+│   ├───P04_02_tf.ipynb
 ├───Data
 ├───Figures
 ├───Models
@@ -121,7 +121,7 @@ Solar Speed Forecasting 18 days into the future. I took three main approaches as
 
 * Time Series Univariate appraoch
 * Time Series Multivariate approach
-* Time Series Multivariate - Supervised appraoch
+                                  ├─── Time Series Multivariate - Supervised appraoch
 
 **Univariate appraoch:**
 The ICME time series data timestamps were not evenly spaced. The data were resampled, considering the mean of timestamps (18 days) into the account.
