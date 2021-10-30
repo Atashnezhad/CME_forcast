@@ -69,16 +69,46 @@ The project directory tree structure is provided below.
 ```
 
 
-## Data Preparation
+## Project Workflow:
+```
+P01 - Data Collection and Cleaning
+        1.1 - Data scraping (request and beautifulsoap)
+        1.2 - Data scraping (extracting data from HTML source file)
+P02 - Data Exploratory
+        2.1 - Data cleaning
+        The adfuller test shows the pressure data (Univariate - solar wind speed) is STATIONARY - 
+        the test stat is less than 10%. Based on adfuller test all data are stationary with 90% confidence.   
+        2.2 - more exploratory analysis
+        Grouping data for BDE (Evidence of BiDirectional suprathermal Electron strahls), magnetic cloud (MC),
+        Bidirectional energetic Ion Flows (BIF), and quality of the boundary times and aggregate for 
+        ICME speed and exploring.
+        2.3 - bulding new df set and turning catogorical values into the numerical and save it as json file
+        for future steps.
+        2.4 - Explore new data set through panda corr function and the potential realtion-ship between 
+        independant parameters
+        
+P03 - Modeling
+        3.1 - Univariate approach
+            3.1.1 - Autoregressive and ARIMA modeling
+            3.1.2 - LSTM modeling
+
+```
+
+## Data Collection and Preparation
 
 The data was scraped from **Near-Earth Interplanetary Coronal Mass Ejections Since January 1996** webpage [here](http://www.srl.caltech.edu/ACE/ASC/DATA/level3/icmetable2.htm#(k)).
-I searched for the coronal mass ejection data set online and found the near-earth webpage which had the data from 1996 to 2020 (almost 550 rows). The data was a long table on one page with multiple headers, and I needed to use some python libraries that are used commonly in web scraping (i.e. beautiful soap). The  
-* The website source web page HTML file was downloaded and saved at the data folder and later was extracted in csv format.
+I searched for the coronal mass ejection data set online and found the near-earth webpage which had the data from 1996 to 2020 (almost 550 rows). The data was a long table on one page with multiple headers, and I needed to use some python libraries that are used commonly in web scraping (i.e. beautiful soap).   
+* The data webpage HTML source file was downloaded and saved at the data folder and later was extracted in csv format. The first rows of raw data is seen below.
 
 
 <p align="left">
   <img width="1000" src="Assets/dftable.png" >
 </p>
+
+
+
+
+
 
 
 
