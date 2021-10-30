@@ -9,7 +9,7 @@ A big potential threat and a dangerous event that might happen in your lifetime.
   <img width="400" src="Assets/3._cme_gif_11660.gif" >
 </p>
 
-## Problem Statment:
+## Problem Statment
 
 A similar solar storm if happen today most likely wipes out the whole data on all computers due to the fact they are mostly not electromagnetic pulse protected.
 Intense solar storms ionize the earth's atmosphere which affects any magnetic communication such as cell phone, internet, etc. 
@@ -50,7 +50,7 @@ The project directory tree structure is provided below.
 ```
 
 
-## Project Workflow:
+## Project Workflow
 ```
 P01 - Data Collection and Cleaning
         1.1 - Data scraping (request and beautifulsoap)
@@ -92,7 +92,7 @@ I searched for the coronal mass ejection data set online and found the near-eart
 
 
 
-## EDA
+## Exploratory Data Analysis
 
 <p align="left">
   <img width="800" src="Figures/P02_02_EDA_MC.png" >
