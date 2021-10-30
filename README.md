@@ -120,8 +120,7 @@ At the top-right side of the plot, a severe solar storm is seen with an ICME spe
 Solar Speed Forecasting 18 days into the future. I took three main approaches as follows to forecast the ICME speed.
 
 * Time Series Univariate appraoch
-* Time Series Multivariate approach
-                                  ├─── Time Series Multivariate - Supervised appraoch
+* Time Series Multivariate approach (also I took supervised appraoch)
 
 **Univariate appraoch:**
 The ICME time series data timestamps were not evenly spaced. The data were resampled, considering the mean of timestamps (18 days) into the account.
