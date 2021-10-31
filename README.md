@@ -156,6 +156,12 @@ Solar Speed Forecasting 18 days into the future. I took two main approaches as f
 
 
 
+## Model Performance
+
+<p align="left">
+  <img width="500" src="Figures/model_comparisonmodel_performance_r2.png" >
+</p>
+
 
 
 ## Results
@@ -167,16 +173,6 @@ Solar Speed Forecasting 18 days into the future. I took two main approaches as f
 <p align="center">
   <img width="1200" src="Figures/ARIMA510_GIF.gif" >
 </p>
-
-
-### Model Performance
-
-<p align="left">
-  <img width="500" src="Figures/model_comparisonmodel_performance_r2.png" >
-</p>
-
-
-
 
 
 
