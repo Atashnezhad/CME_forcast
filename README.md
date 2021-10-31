@@ -159,7 +159,7 @@ Solar Speed Forecasting 18 days into the future. I took two main approaches as f
 ## Model Performance
 
 <p align="left">
-  <img width="500" src="Figures/model_comparisonmodel_performance_r2.png" >
+  <img width="750" src="Figures/model_comparisonmodel_performance_r2.png" >
 </p>
 
 
