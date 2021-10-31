@@ -156,6 +156,12 @@ Solar Speed Forecasting 18 days into the future. I took two main approaches as f
 
 
 
+## Model Performance
+
+<p align="left">
+  <img width="500" src="Figures/model_comparisonmodel_performance_r2.png" >
+</p>
+
 
 
 ## Results
@@ -169,15 +175,8 @@ Solar Speed Forecasting 18 days into the future. I took two main approaches as f
 </p>
 
 
-<!--
-### AR 150 lags Forecasting for 18 days ahead
-<p align="center">
-  <img width="1200" src="Figures/AR_150.gif" >
-</p>
 
 
-### LSTM Forecasting for 18 days ahead
-<p align="center">
-  <img width="1200" src="Figures/P03_02_LSTM_2_univar.gif" >
-</p>
--->
+
+
+
