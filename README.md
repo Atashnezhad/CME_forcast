@@ -145,12 +145,12 @@ At the top-right side of the plot, a severe solar storm is seen with an ICME spe
 
 ## Solar Speed Forecasting 
 
-Solar Speed Forecasting 18 days into the future. I took three main approaches as follows to forecast the ICME speed.
+Solar Speed Forecasting 18 days into the future. I took two main approaches as follows to forecast the ICME speed.
 
 * Time Series Univariate approach (also I took the supervised approach, applying ML algorithms including XGBoost, sequential, LR)
 * Time Series Multivariate approach
 
-**Univariate approach:** The ICME time series data timestamps were not evenly spaced. The data were resampled, considering the mean of timestamps (18 days) into the account. The classical forecasting methods including the autoregressive (AR) and autoregressive integrated moving average (ARIMA) were applied to univariate ICME speed data. I choose the ARIMA model which combines three methods including autoregressive, moving average, and integration. two LSTM architecture models (Keras) were applied to time series data. In another part 03_04 of this work, the XGBoost, Linear regression, Sequential model using Keras and TensorFlow (data normalized using min-max scaler) were applied for supervised forecasting of univariate ICME speed data.
+**Univariate approach:** The ICME time series data timestamps were not evenly spaced. The data were resampled, considering the mean of timestamps (18 days) into the account. The classical forecasting methods including the autoregressive (AR) and autoregressive integrated moving average (ARIMA) were applied to univariate ICME speed data. I choose the ARIMA model which combines three methods including autoregressive, moving average, and integration. Two LSTM architecture models (Keras) were applied to time series data. In another part (03_04) of this work, the XGBoost, Linear regression, Sequential model using Keras and TensorFlow (data normalized using min-max scaler) were applied for supervised forecasting of univariate ICME speed data.
 
 **Multivariate approach:** I made new data set using the pandas library and the shift method was used along with 60 lags. The goal is to use 60 lags (timestamps) to forecast the future timestamps (18 days into the future). In addition, I applied the LSTM model (Keras) model. The Sequential model using the TensorFlow library was applied considering two lags for ICME speed forecasting. The split fraction of 0.8 improved the model overall estimation MAE (no overfitting observed).
 
@@ -166,6 +166,8 @@ Solar Speed Forecasting 18 days into the future. I took three main approaches as
   <img width="1200" src="Figures/ARIMA510_GIF.gif" >
 </p>
 
+
+<!--
 ### AR 150 lags Forecasting for 18 days ahead
 <p align="center">
   <img width="1200" src="Figures/AR_150.gif" >
@@ -176,3 +178,4 @@ Solar Speed Forecasting 18 days into the future. I took three main approaches as
 <p align="center">
   <img width="1200" src="Figures/P03_02_LSTM_2_univar.gif" >
 </p>
+-->
