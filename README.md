@@ -69,9 +69,9 @@ P02 - Data Exploratory
         2.4 - Explore new data set through panda corr function and the potential 
         relation-ship between independent parameters.
 P03 - Modeling
-        P03_01_Univar_ARIMA_AR:
+        P03_01_Univar_ARIMA_AR
         Data: Data_ICME_Edited_Decoded_out_P02_03 -> evenly distributed 
-        lag: -
+        lag: three lags were used
         Train_test split: 0.69
         auto arima - > ARIMA (1,1,1) | lag = 1
         ARIMA (5,1,0) | lag = 5
@@ -83,20 +83,20 @@ P03 - Modeling
         Train_test split: 0.69
         Model: LSTM_1, LSTM_2 (keras)
 
-        P03_04_Univar_ML:
+        P03_04_Univar_ML
         supervised
         Data: Data_ICME_speed_transformed_18D_P03_01
         lag: 60
         Train_test split: 0.69
         ML: XGBoost, LR, Sequential (keras)
 
-        P03_05_Multivar_LSTM:
+        P03_05_Multivar_LSTM
         Data: Data_ICME_Edited_Decoded_out_P02_03
         lag: 60
         Train_test split: 0.69
         Model: LSTM (keras)
 
-        P03_06_Multivar_tf_supervised:
+        P03_06_Multivar_tf_supervised
         Data: Data_ICME_Edited_Decoded_out_P02_03
         lag: 2
         Train_test split: 0.8
