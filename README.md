@@ -160,7 +160,9 @@ Solar Speed Forecasting 18 days into the future. I took two main approaches as f
 
 ## Results
 
-### ARIMA 5,1,0 Forecasting for 18 days ahead
+### ARIMA 5,1,0 
+
+ ARIMA 5,1,0 Forecasting 18 days into the future.
 
 <p align="center">
   <img width="1200" src="Figures/ARIMA510_GIF.gif" >
