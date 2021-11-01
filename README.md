@@ -143,6 +143,15 @@ Although there is some high ICME speed recorded above 450 km/s, however, the dat
 At the top-right side of the plot, a severe solar storm is seen with an ICME speed of around 800 km/s and Dst index of -99. Note that the -99 DsT was assigned to a numerical value of 200 (turning categorical to numerical - the records are availbe in the data folder under the name ```save_coded_values_P02_03_EDA.json```in JSON format)
 
 
+
+<p align="left">
+  <img width="1000" src="Figures/neat_hist2d.png" >
+</p>
+
+
+
+
+
 ## Solar Speed Forecasting 
 
 Solar Speed Forecasting 18 days into the future. I took two main approaches as follows to forecast the ICME speed.
