@@ -123,6 +123,10 @@ I searched for the coronal mass ejection data set online and found the near-eart
 
 ## Exploratory Data Analysis
 
+
+
+
+
 <p align="left">
   <img width="800" src="Figures/P02_02_EDA_MC.png" >
 </p>
@@ -148,6 +152,11 @@ At the top-right side of the plot, a severe solar storm is seen with an ICME spe
   <img width="1000" src="Figures/neat_hist2d.png" >
 </p>
 
+
+## Statistical Analysis Results
+
+
+Average solar wind speed is higher when Bidirectional suprathermal Electron strahls happen.
 
 
 
