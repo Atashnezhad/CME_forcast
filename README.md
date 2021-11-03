@@ -1,13 +1,21 @@
+<!--
 <p align="left">
     <img width="1200" src="Assets/carington_ev.png" >
+</p>
+
+
+-->
+
+
+
+<p align="left">
+  <img width="400" src="Assets/3._cme_gif_11660.gif" >
 </p>
 
 # Interplanetary Coronal Mass Ejection (ICME) Speed Forecasting - Geomagnetic Storms
 A big potential threat and a dangerous event that might happen in your lifetime. Geomagnetic storms! On September 1st, 1859, the largest solar storm on record hit the earth. You may have already heard about the so-called Carrington event that happen back in 1859. The Carrington event was such a powerful solar storm that sat the telegraph papers on fire! The Coronal Mass Ejection (CME) starts on the surface of the sun where the intense magnetic field makes an arc shape of materials that have a high tendency to snap (well-known coronal mass ejection). 
 
-<p align="left">
-  <img width="400" src="Assets/3._cme_gif_11660.gif" >
-</p>
+
 
 ## Problem Statment
 
@@ -21,7 +29,7 @@ The goal of this project is to forecast the solar storm's speed 18 days into the
 </p>
 
 
-
+<!--
 ## Directory Contents
 
 The project directory tree structure is provided below.
@@ -103,6 +111,10 @@ P03 - Modeling
         Model: Squential DNN (tensorflow)
 ```
 
+
+-->
+
+
 ## Data Collection and Preparation
 
 The data was scraped from **Near-Earth Interplanetary Coronal Mass Ejections Since January 1996** webpage [here](http://www.srl.caltech.edu/ACE/ASC/DATA/level3/icmetable2.htm#(k)).
@@ -131,27 +143,19 @@ I searched for the coronal mass ejection data set online and found the near-eart
   <img width="800" src="Figures/P02_02_EDA_MC.png" >
 </p>
 
-
-**P02_02_EDA:** 
-From the above figure, It is clear that the events reported by Huttunen et al have reported some outliers in the overall data set. It is seen that the Huttunen et al group have reported some very high ICME speeds. This observation opens room for investigating the whole data reported by their team to discover the reason behind these outliers. is there any difference between the measurement tools used by their team?
+It is clear that the events reported by Huttunen et al have reported some outliers in the overall data set. It is seen that the Huttunen et al group have reported some very high ICME speeds. This observation opens room for investigating the whole data reported by their team to discover the reason behind these outliers. is there any difference between the measurement tools used by their team?
 
 
+<!--
 <p align="left">
   <img width="500" src="Figures/p04_02_tf_hist2d_3.png" >
 </p>
 
-**P04_02_tf:** 
-From the above plot, it is observed that the majority of ICME speed falls between 400 to 500 km/s and magnetic activity of -50nT to -60 nT. Note that, the Dst < -100 nT are considered severe solar storms (Zhang et al. 2007).
+It is observed that the majority of ICME speed falls between 400 to 500 km/s and magnetic activity of -50nT to -60 nT. Note that, the Dst < -100 nT are considered severe solar storms (Zhang et al. 2007).
 Although there is some high ICME speed recorded above 450 km/s, however, the data shows both low and high magnetic index disturbance which makes it inconclusive.
-
 At the top-right side of the plot, a severe solar storm is seen with an ICME speed of around 800 km/s and Dst index of -99. Note that the -99 DsT was assigned to a numerical value of 200 (turning categorical to numerical - the records are availbe in the data folder under the name ```save_coded_values_P02_03_EDA.json```in JSON format)
 
-
-
-<p align="left">
-  <img width="1000" src="Figures/neat_hist2d.png" >
-</p>
-
+-->
 
 ## Statistical Analysis Results
 
@@ -168,7 +172,6 @@ At the top-right side of the plot, a severe solar storm is seen with an ICME spe
 **Solar wind speed is higher in average when the forward fast shock happens.** 
 
 * At least I don't have any evidence against it. 
-
 
 
 
@@ -192,7 +195,7 @@ Solar Speed Forecasting 18 days into the future. I took two main approaches as f
 </p>
 
 
-
+<!--
 ## Results
 
 ### ARIMA 5,1,0 
@@ -203,7 +206,7 @@ Solar Speed Forecasting 18 days into the future. I took two main approaches as f
   <img width="1200" src="Figures/ARIMA510_GIF.gif" >
 </p>
 
-
+-->
 
 
 
