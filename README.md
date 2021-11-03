@@ -156,7 +156,7 @@ At the top-right side of the plot, a severe solar storm is seen with an ICME spe
 ## Statistical Analysis Results
 
 
-* Average solar wind speed is higher when Bidirectional suprathermal Electron strahls happen.
+* Average solar wind speed is higher when Bidirectional suprathermal Electron strahls happen compare to when it does not.
 * The average solar wind speed when Bidirectional suprathermal Electron strahls happen is not different than when intense solar energetic particle event is happening. The observed difference in ICME speed is just due to error. Although the data shows that when the intense solar energetic particle event is happening the solar wind speed is higher in average, compare to when Bidirectional suprathermal Electron strahls. However it is not statistically significant.
 
 
