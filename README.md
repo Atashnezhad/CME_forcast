@@ -174,6 +174,10 @@ At the top-right side of the plot, a severe solar storm is seen with an ICME spe
 * At least I don't have any evidence against it. 
 
 
+**There is a significant correlation between solar wind speed and the mean magnetic field.** 
+
+* I observed that those cases with the higher mean magnetic fields have higher solar wind speeds and the correlation is statistically significant.
+
 
 ## Solar Speed Forecasting 
 
