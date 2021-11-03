@@ -156,12 +156,12 @@ At the top-right side of the plot, a severe solar storm is seen with an ICME spe
 ## Statistical Analysis Results
 
 
-* Average solar wind speed is higher when Bidirectional suprathermal Electron strahls happen compare to when it does not. I rejected the null hypothesis with ttest_ind from stat librrary with very small p-value, therefore the chance of getting type 1 error (false positive) is pretty low.
+* **Average solar wind speed is higher when Bidirectional suprathermal Electron strahls happen compare to when it does not.** I rejected the null hypothesis with ttest_ind from stat librrary with very small p-value, therefore the chance of getting type 1 error (false positive) is pretty low.
 
 
-* The average solar wind speed when Bidirectional suprathermal Electron strahls happen is not different than when intense solar energetic particle event is happening. The observed difference in ICME speed is just due to noise. In other word, Although the data shows that when the intense solar energetic particle event is happening the solar wind speed is higher in average compare to when Bidirectional suprathermal Electron strahls is happening, the results However are not statistically significant. Upon checking out the the number of data point with SEP , I found that I do have just 4 rows of data which is not enougth to come up with a solid conclusion about the average ICME speed when intense solar energetic particle event is going on.
+* **The average solar wind speed when Bidirectional suprathermal Electron strahls happen is not changed compare to when intense solar energetic particle event is happening.** The observed difference in ICME speed is just due to noise. In other word, Although the data shows that when the intense solar energetic particle event is happening the solar wind speed is higher in average compare to when Bidirectional suprathermal Electron strahls is happening, the results However are not statistically significant. Upon checking out the the number of data point with SEP , I found that I do have just 4 rows of data which is not enougth to come up with a solid conclusion about the average ICME speed when intense solar energetic particle event is going on.
 
-* solar wind speed is higher in average when the forward fast shock happens.
+* **Solar wind speed is higher in average when the forward fast shock happens.** At least I don't have any evidence against it. 
 
 
 
