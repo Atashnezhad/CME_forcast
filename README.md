@@ -115,7 +115,7 @@ P03 - Modeling
 -->
 
 
-## Data Collection and Preparation
+## [Data Collection and Preparation](https://github.com/Atashnezhad/ICME_Speed_Forecast/blob/main/Codes/P01_02_Data_Scraping.ipynb)
 
 The data was scraped from **Near-Earth Interplanetary Coronal Mass Ejections Since January 1996** webpage [here](http://www.srl.caltech.edu/ACE/ASC/DATA/level3/icmetable2.htm#(k)).
 I searched for the coronal mass ejection data set online and found the near-earth webpage which had the data from 1996 to 2020 (almost 550 rows). The data was a long table on one page with multiple headers, and I needed to use some python libraries that are used commonly in web scraping (i.e. beautiful soap).   
