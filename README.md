@@ -157,6 +157,17 @@ At the top-right side of the plot, a severe solar storm is seen with an ICME spe
 
 -->
 
+
+
+
+<p align="center">
+  <img width="1000" src="Figures/P02_stat_EDA.png" >
+</p>
+
+
+
+
+
 ## [Statistical Analysis Results](https://github.com/Atashnezhad/ICME_Speed_Forecast/blob/main/Statistical_Analysis/Statistical_Analysis.ipynb)
 
 
