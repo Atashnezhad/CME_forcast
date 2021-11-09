@@ -164,7 +164,7 @@ At the top-right side of the plot, a severe solar storm is seen with an ICME spe
 
 
 
-## [Statistical Analysis Results](https://github.com/Atashnezhad/ICME_Speed_Forecast/blob/main/Statistical_Analysis/Statistical_Analysis.ipynb)
+## [Statistical Analysis Results](https://github.com/Atashnezhad/ICME_Speed_Forecast/blob/main/Statistical_Analysis/P01_Statistical_Analysis.ipynb)
 
 
 **Average solar wind speed is higher when Bidirectional suprathermal Electron strahls happen compare to when it does not.** 
