@@ -158,7 +158,7 @@ It is clear that the events reported by Huttunen et al have reported some outlie
   <img width="1000" src="Figures/P02_stat_EDA.png" >
 </p>
 
-It is observed that the majority of ICME speed falls between 400 to 500 km/s and magnetic activity of -50nT to -60 nT. Note that, the Dst < -100 nT are considered severe solar storms (Zhang et al. 2007).
+It is observed that the majority of ICME speed falls between 400 to 500 km/s and magnetic activity of -50nT to -60 nT (5th subplot). Note that, the Dst < -100 nT are considered severe solar storms (Zhang et al. 2007).
 Although there is some high ICME speed recorded above 450 km/s, however, the data shows both low and high magnetic index disturbance which makes it inconclusive.
 At the top-right side of the plot, a severe solar storm is seen with an ICME speed of around 800 km/s and Dst index of -99. 
 
