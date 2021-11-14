@@ -24,7 +24,7 @@ event reported by Huttunen et al. Ann Geophys",-74,381
 1997-11-07 04:00:00,Y,2,140 S,400,11,2,-110,640,Yes,2.0,some Evidence,140,magnetic cloud has been reported,-110,640
 1997-11-22 19:00:00,Y,1,170 S,510,17,2,-108,640,Yes,1.0,some Evidence,170,magnetic cloud has been reported,-108,640
 1997-11-24 00:00:00,Y,2,100,530,5,0,-47,...,No,2.0,some Evidence,100,magnetic cloud has not been reported,-47,0
-1997-12-10 18:00:00,...,2,50 S,350,12,0,-60,460,Yes,2.0,nan,50,magnetic cloud has not been reported,-60,460
+1997-12-10 18:00:00,...,2,50 S,350,12,0,-60,460,Yes,2.0,,50,magnetic cloud has not been reported,-60,460
 1997-12-30 10:00:00,Y,3,50 S,370,12,1,-77,430,Yes,3.0,some Evidence,50,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-77,430
 1998-01-07 01:00:00,Y,2,80 S,400,16,2,-77,480,Yes,2.0,some Evidence,80,magnetic cloud has been reported,-77,480
 1998-01-09 07:00:00,N,2,0,450,6,1,-28,...,No,2.0,no Evidence,0,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-28,0
@@ -79,7 +79,7 @@ event reported by Huttunen et al. Ann Geophys",-29,0
 1999-05-15 16:00:00,N,3,0,390,5,0,-13,...,No,3.0,no Evidence,0,magnetic cloud has not been reported,-13,0
 1999-06-02 23:00:00,Y,3,40,430,9,1,-6,...,No,3.0,some Evidence,40,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-6,0
 1999-06-27 22:00:00,Y,3,100 S,670,7,0,-41,760,Yes,3.0,some Evidence,100,magnetic cloud has not been reported,-41,760
-1999-07-03 05:00:00,...,2,100 S,440,4,0,-26,...,Yes,2.0,nan,100,magnetic cloud has not been reported,-26,0
+1999-07-03 05:00:00,...,2,100 S,440,4,0,-26,...,Yes,2.0,,100,magnetic cloud has not been reported,-26,0
 1999-07-06 21:00:00,N,2,50 S,460,10,1,-4,620,Yes,2.0,no Evidence,50,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-4,620
 1999-07-07 07:00:00,Y,3,70,450,4,0,-1,...,No,3.0,some Evidence,70,magnetic cloud has not been reported,-1,0
 1999-07-27 17:00:00,Y,3,30 S,390,6,0,-38,560,Yes,3.0,some Evidence,30,magnetic cloud has not been reported,-38,560
@@ -324,7 +324,7 @@ event reported by Huttunen et al. Ann Geophys",-353,2185
 2008-12-04 12:00:00,N,3,40,390,7,1,-26,...,No,3.0,no Evidence,40,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-26,0
 2008-12-17 03:00:00,N,3,30,350,9,2,-15,350,No,3.0,no Evidence,30,magnetic cloud has been reported,-15,350
 2009-01-19 02:00:00,N,2,40,430,12,1,-6,...,No,2.0,no Evidence,40,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-6,0
-2009-02-04 00:00:00,...,2,40,360,10,2,-42,...,No,2.0,nan,40,magnetic cloud has been reported,-42,0
+2009-02-04 00:00:00,...,2,40,360,10,2,-42,...,No,2.0,,40,magnetic cloud has been reported,-42,0
 2010-01-01 22:00:00,Y,1,10,290,7,1,-4,...,No,1.0,some Evidence,10,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-4,0
 2010-02-07 18:00:00,Y,1,20,370,9,2,-22,...,No,1.0,some Evidence,20,magnetic cloud has been reported,-22,0
 2010-02-11 08:00:00,N,3,70,360,7,0,-7,450,No,3.0,no Evidence,70,magnetic cloud has not been reported,-7,450
@@ -382,24 +382,24 @@ event reported by Huttunen et al. Ann Geophys",-353,2185
 2012-03-06 08:00:00,Y,3W,0,370,11,1,-23,...,No,3.5,some Evidence,0,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-23,0
 2012-03-09 03:00:00,Y,2,270,550,7,1,-145,1220,No,2.0,some Evidence,270,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-145,1220
 2012-03-15 17:00:00,N,3,170,680,9,1,-88,960,No,3.0,no Evidence,170,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-88,960
-2012-04-23 17:00:00,...,1,60,370,13,2,-120,...,No,1.0,nan,60,magnetic cloud has been reported,-120,0
+2012-04-23 17:00:00,...,1,60,370,13,2,-120,...,No,1.0,,60,magnetic cloud has been reported,-120,0
 2012-04-26 00:00:00,Y,3,70,540,5,0,-57,...,No,3.0,some Evidence,70,magnetic cloud has not been reported,-57,0
 2012-05-16 16:00:00,Y,2,0,370,10,2,-39,370,No,2.0,some Evidence,0,magnetic cloud has been reported,-39,370
-2012-06-08 10:00:00,...,2,30,480,5,0,-12,...,No,2.0,nan,30,magnetic cloud has not been reported,-12,0
+2012-06-08 10:00:00,...,2,30,480,5,0,-12,...,No,2.0,,30,magnetic cloud has not been reported,-12,0
 2012-06-16 23:00:00,Y,1,80,440,28,2,-86,770,No,1.0,some Evidence,80,magnetic cloud has been reported,-86,770
 2012-07-05 00:00:00,Y,3,50,470,8,1,-19,730,No,3.0,some Evidence,50,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-19,730
 2012-07-09 00:00:00,Y,2,20,410,12,2,-78,480,No,2.0,some Evidence,20,magnetic cloud has been reported,-78,480
-2012-07-15 06:00:00,...,1,220,490,16,2,-139,850,No,1.0,nan,220,magnetic cloud has been reported,-139,850
+2012-07-15 06:00:00,...,1,220,490,16,2,-139,850,No,1.0,,220,magnetic cloud has been reported,-139,850
 2012-07-22 11:00:00,N,3,50,460,5,0,-28,...,No,3.0,no Evidence,50,magnetic cloud has not been reported,-28,0
-2012-09-01 07:00:00,...,2,20,310,8,1,-69,...,No,2.0,nan,20,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-69,0
-2012-09-04 11:00:00,...,2,120,430,9,0,-61,...,No,2.0,nan,120,magnetic cloud has not been reported,-61,0
+2012-09-01 07:00:00,...,2,20,310,8,1,-69,...,No,2.0,,20,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-69,0
+2012-09-04 11:00:00,...,2,120,430,9,0,-61,...,No,2.0,,120,magnetic cloud has not been reported,-61,0
 2012-09-05 06:00:00,N,2,40,500,10,2,-64,...,No,2.0,no Evidence,40,magnetic cloud has been reported,-64,0
 2012-09-06 02:00:00,Y,1,0,420,10,2,-32,...,No,1.0,some Evidence,0,magnetic cloud has been reported,-32,0
-2012-09-30 14:00:00,...,3,30,310,8,0,-39,...,No,3.0,nan,30,magnetic cloud has not been reported,-39,0
+2012-09-30 14:00:00,...,3,30,310,8,0,-39,...,No,3.0,,30,magnetic cloud has not been reported,-39,0
 2012-10-01 00:00:00,Y,3,70,370,14,2,-122,590,No,3.0,some Evidence,70,magnetic cloud has been reported,-122,590
 2012-10-02 22:00:00,N,3,0,320,6,1,-32,...,No,3.0,no Evidence,0,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",-32,0
-2012-10-08 18:00:00,...,1,70,390,16,2,-107,560?,No,1.0,nan,70,magnetic cloud has been reported,-107,0
-2012-10-12 22:00:00,...,2,40,490,11,2,-90,...,No,2.0,nan,40,magnetic cloud has been reported,-90,0
+2012-10-08 18:00:00,...,1,70,390,16,2,-107,560?,No,1.0,,70,magnetic cloud has been reported,-107,0
+2012-10-12 22:00:00,...,2,40,490,11,2,-90,...,No,2.0,,40,magnetic cloud has been reported,-90,0
 2012-11-01 00:00:00,Y,1,70,340,11,2,-65,440,No,1.0,some Evidence,70,magnetic cloud has been reported,-65,440
 2012-11-09 03:00:00,N,2,0,370,2,1,+1,...,No,2.0,no Evidence,0,"evidence of a rotation in field direction, but lacks some other characteristics of a magnetic cloud",1,0
 2012-11-13 08:00:00,Y,1,50,380,21,2,-108,530,No,1.0,some Evidence,50,magnetic cloud has been reported,-108,530
@@ -525,4 +525,4 @@ event reported by Huttunen et al. Ann Geophys",-353,2185
 2020-12-10 23:00:00,Y,2,110,440,5,0,-10 Q,720,No,2.0,some Evidence,110,magnetic cloud has not been reported,0,720
 2021-02-23 08:00:00,Y,3W,40,510,5,0,-31 Q,670,No,3.5,some Evidence,40,magnetic cloud has not been reported,0,670
 2021-05-12 15:00:00,Y,2,120,410,8,2,-61 Q,620,No,2.0,some Evidence,120,magnetic cloud has been reported,0,620
-2021-05-26 22:00:00,...,3,40,410,9,0,-28 Q,550-700,No,3.0,nan,40,magnetic cloud has not been reported,0,0
+2021-05-26 22:00:00,...,3,40,410,9,0,-28 Q,550-700,No,3.0,,40,magnetic cloud has not been reported,0,0
