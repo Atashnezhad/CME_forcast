@@ -229,7 +229,7 @@ The DNN does not encounter overfitting however applying small networks is not he
 
 
 
-# Separate Project
+# Supervised Sub-Project
 
 I used the scrapped data and applied following steps to estimate the solar wind speed. This is a simple supervised ML project.
 
