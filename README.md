@@ -198,7 +198,6 @@ Solar Speed Forecasting 18 days into the future. I took two main approaches as f
 **Multivariate approach:** I made new data set using the pandas library and the shift method was used along with 60 lags. The goal is to use 60 lags (timestamps) to forecast the future timestamps (18 days into the future). In addition, I applied the LSTM model (Keras) model. The Sequential model using the TensorFlow library was applied considering two lags for ICME speed forecasting. The split fraction of 0.8 improved the model overall estimation MAE (no overfitting observed).
 
 
-<!--
 ## Model Performance
 
 <p align="left">
@@ -211,13 +210,21 @@ Solar Speed Forecasting 18 days into the future. I took two main approaches as f
 
 ### ARIMA 5,1,0 
 
- ARIMA 5,1,0 Forecasting 18 days into the future.
+## ARIMA 5,1,0 Forecasting 18 days into the future (univar).
 
 <p align="center">
   <img width="1200" src="Figures/ARIMA510_GIF.gif" >
 </p>
 
--->
+## DNN supervised 18 days into the future (multivariate).
+
+The DNN does not encounter overfitting however applying small networks is not helpful. Applying split fraction 0.8 results in improved MAE values. 2 lags (2*18 days) data was used for prediction next timestamps.
+
+<p align="center">
+  <img width="1200" src="Figures/P03_06_DNN_multivar_sup.gif" >
+</p>
+
+
 
 
 
