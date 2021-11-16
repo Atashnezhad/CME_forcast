@@ -229,4 +229,45 @@ The DNN does not encounter overfitting however applying small networks is not he
 
 
 
+# Supervised Sub-Project
+
+I used the scrapped data and applied following steps to estimate the solar wind speed. This is a simple supervised ML project.
+
+Steps are as follow:
+
+1) Scraping data
+2) Data cleansing
+3) Remove missing values
+4) Checking out data for duplicates
+5) Check out columns unique values percentage
+6) Checking out the Data distribution
+7) Automatic Outlier Detection using Local Outlier Factor (LOF)
+8) MiniMax transformer and features selection base on variance
+9) MinMax & PowerTransformer on training data (avoiding data leakage)
+10) MinMaxScaler, PowerTransformer & HuberRegressor on training data (avoiding data leakage)
+11) Fit and Predict with whole pipeline (pipeline steps are: MinMaxScaler, PowerTransformer & HuberRegressor) achieved mean_absolute_error = 50.25320648218336
+12) Categorical features selection
+13) Applying OrdinalEncoder
+14) Using categorical features and LinearRegression achieved MAE = 63
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
