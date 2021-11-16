@@ -235,7 +235,7 @@ I used the scrapped data and applied following steps to estimate the solar wind 
 
 Steps are as follow:
 
-1) Scraped data
+1) Scraping data
 2) Data cleansing
 3) Remove missing values
 4) Checking out data for duplicates
