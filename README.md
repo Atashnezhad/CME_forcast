@@ -248,17 +248,17 @@ Steps are as follow:
   <img width="400" src="Figures/Supervise_Sub_Project_f1.png" >
 </p>
 
-10) MinMax & PowerTransformer on training data (avoiding data leakage)
-11) MinMaxScaler, PowerTransformer & HuberRegressor on training data (avoiding data leakage)
-12) Fit and Predict with whole pipeline (pipeline steps are: MinMaxScaler, PowerTransformer & HuberRegressor) achieved mean_absolute_error = 50.25320648218336
+9) MinMax & PowerTransformer on training data (avoiding data leakage)
+10) MinMaxScaler, PowerTransformer & HuberRegressor on training data (avoiding data leakage)
+11) Fit and Predict with whole pipeline (pipeline steps are: MinMaxScaler, PowerTransformer & HuberRegressor) achieved mean_absolute_error = 50.25320648218336
 
 <p align="left">
   <img width="400" src="Figures/Supervise_Sub_Project_numer_f2.png" >
 </p>
 
-14) Categorical features selection
-15) Applying OrdinalEncoder
-16) Using categorical features and LinearRegression achieved MAE = 63
+12) Categorical features selection
+13) Applying OrdinalEncoder
+14) Using categorical features and LinearRegression achieved MAE = 63
 
 
 
