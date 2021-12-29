@@ -198,12 +198,14 @@ Solar Speed Forecasting 18 days into the future. I took two main approaches as f
 **Multivariate approach:** I made new data set using the pandas library and the shift method was used along with 60 lags. The goal is to use 60 lags (timestamps) to forecast the future timestamps (18 days into the future). In addition, I applied the LSTM model (Keras) model. The Sequential model using the TensorFlow library was applied considering two lags for ICME speed forecasting. The split fraction of 0.8 improved the model overall estimation MAE (no overfitting observed).
 
 
+
+<!--
 ## Model Performance
 
 <p align="left">
   <img width="750" src="Figures/model_comparisonmodel_performance_r2.png" >
 </p>
-
+-->
 
 
 ## Results
